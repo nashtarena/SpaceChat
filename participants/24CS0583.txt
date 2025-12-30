@@ -1,0 +1,6 @@
+Name: Natasha Patnaik
+Roll Number: 24CS0583
+Hobbies: Reading, Singing, Dancing
+Github ID: nashtarena
+Tech Parent: freeCodeCamp
+Favorite Society: FOSS
